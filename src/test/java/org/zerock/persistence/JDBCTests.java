@@ -18,7 +18,7 @@ public class JDBCTests {
 			fail();
 		}
 		
-		String url = "jdbc:mariadb://13.125.118.27/test";
+		String url = "jdbc:mariadb://13.209.83.171/test";
 		String user = "root";
 		String password = "wnddkdwjdqhcjfl1";
 		
